@@ -11,9 +11,11 @@
   
 </div>
 
+<div align="center">
+  
+## **📊 GitHub Stats:** 
 
-###### <h3> **📊 GitHub Stats:** <h3>
 <img src="https://github-readme-stats-wheat-two-53.vercel.app/api?username=NordestGames&theme=neon&hide_border=false&include_all_commits=false&count_private=false"  width="364px" />                    <img src="https://github-readme-streak-stats.herokuapp.com/?user=NordestGames&theme=neon&hide_border=false"  width="400px" />
 ![](https://github-readme-stats-wheat-two-53.vercel.app/api/top-langs/?username=NordestGames&theme=neon&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<div>
+</div>
